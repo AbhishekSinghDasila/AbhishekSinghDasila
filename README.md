@@ -8,7 +8,7 @@ I build **multi-agent AI systems wired to real tools over MCP**, **RAG systems t
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5A36?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-tan-pi-9vsdob11t7.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-singh-dasila-781817223/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-800%2B_solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/AbhishekSinghDasila/)
+[![Codolio](https://img.shields.io/badge/Codolio-900%2B_DSA_solved-FFA116?style=for-the-badge&logo=codeforces&logoColor=black)](https://codolio.com/profile/asd30)
 [![Email](https://img.shields.io/badge/Email-abhisheksinghdasila7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhisheksinghdasila7@gmail.com)
 
 ---
@@ -33,6 +33,6 @@ I build **multi-agent AI systems wired to real tools over MCP**, **RAG systems t
 
 ## 🏆 Highlights
 
-- 800+ DSA problems solved across LeetCode and other platforms
+- 900+ DSA problems solved across coding platforms ([Codolio profile](https://codolio.com/profile/asd30))
 - 2nd place, M.Tech hackathon at IIIT Allahabad
 - Qualified GATE in 2024 and 2025
