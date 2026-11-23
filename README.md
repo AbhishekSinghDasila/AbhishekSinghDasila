@@ -18,7 +18,7 @@ I build **multi-agent AI systems wired to real tools over MCP**, **RAG systems t
 | Project | What it is | Stack |
 |---|---|---|
 | [**Enterprise-RAG**](https://github.com/AbhishekSinghDasila/Enterprise-RAG) · [demo](https://enterprise-rag-six.vercel.app/) | Agentic multi-hop RAG with hybrid dense/sparse retrieval and RAGAS evaluation | FastAPI · LangGraph · Qdrant · Groq · React |
-| [**MARKETMIND**](https://github.com/AbhishekSinghDasila/MARKETMIND) · [demo](https://marketmind-roan.vercel.app/) | 6-agent stock research: news sentiment, technicals and ATR risk sizing, every number computed | Python · FastAPI · Groq · React |
+| [**MARKETMIND**](https://github.com/AbhishekSinghDasila/MARKETMIND) · [demo](https://marketmind-roan.vercel.app/) | 8-agent research on Indian markets (NSE/BSE): news, five sector agents and risk sizing, grounded in real price data | Python · FastAPI · Groq · React |
 | [**CompileGuard**](https://github.com/AbhishekSinghDasila/CompileGuard) | Compiler verification for C++, CUDA and PTX: test generation, differential testing, failure reduction, regression replay | Python · C++ · CUDA |
 | [**DevBhumi**](https://github.com/AbhishekSinghDasila/Tourist-traffic-management-system-for-hill-regions) | Traffic & tourism management for hill regions: 5 microservices, 53 tests | FastAPI · Kafka · PostgreSQL · Redis · XGBoost |
 | [**E-Commerce Medallion Pipeline**](https://github.com/AbhishekSinghDasila/E-Commerce-Medallion-Data-Pipeline) | Bronze/silver/gold Parquet lake into a dbt star schema, 20+ data-quality tests | Python · dbt · SQL |
